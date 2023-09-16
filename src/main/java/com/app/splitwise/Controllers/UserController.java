@@ -12,7 +12,7 @@ public class UserController {
         CreateUserResponseDTO createUserResponseDTO = null;
         return createUserResponseDTO;
     }
-    ""
+
     public GetUserResponseDTO getUser(GetUserRequestDTO getUserRequestDTO){
         return null;
     }
